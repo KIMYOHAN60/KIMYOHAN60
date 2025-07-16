@@ -30,9 +30,51 @@ https://instagram.com/kssg121340
 
 ---------------------------
 
-##목차
----------------------------
-##프로젝트 요약
----------------------------
-##프로젝트 상세 
+## 📚 목차
+1. [요양보조로봇](#요양보조로봇)
+2. [제주 불법주정차 단속 로봇](#제주-불법주정차-단속-로봇)
+3. [Bloom for you](#bloom-for-you)
+4. [Turtlebot3 AruCo marker challenge / Autonomous driving](#turtlebot3-aruco-marker-challenge--autonomous-driving)
+
+---
+
+## 프로젝트 요약
+
+### 1. 요양보조로봇
+- **기간:** 2025.05.23 ~ 2025.06.05  
+- **기술스택:** VS Code, ROS2, Python, MoveIt, Force sensor, Jetson  
+- **설명:**  
+  환자 케어를 위한 요양보조로봇 개발 프로젝트입니다.  
+  ROS2 기반 로봇팔의 반복 동작 학습, 힘 센서 연동, 실제 환경에서의 동작 검증 등을 수행했습니다.
+
+---
+
+### 2. 제주 불법주정차 단속 로봇
+- **기간:** 2025.05.09 ~ 2025.05.22  
+- **기술스택:** YOLOv8, Depth Camera, VS Code, Jetson, ROS2  
+- **설명:**  
+  AI 비전(YOLOv8)과 Depth 카메라를 이용해  
+  제주도 불법주정차 차량을 탐지·단속하는 자율주행 로봇 시스템을 구현했습니다.
+
+---
+
+### 3. Bloom for you
+- **기간:** 2025.06.09 ~ 2025.06.20  
+- **기술스택:** Python, OpenCV, VS Code, Django, Selenium  
+- **설명:**  
+  감정 분석 기반 꽃 선물 추천 자동화 서비스.  
+  컴퓨터 비전, 크롤링, 데이터베이스, 웹 개발 등 전체 파이프라인을 설계/구현했습니다.
+
+---
+
+### 4. Turtlebot3 AruCo marker challenge / Autonomous driving
+- **기간:** 2025.06.23 ~ 2025.07.04  
+- **기술스택:** Python, ROS2, Gazebo, Turtlebot3, OpenCV, ArUco  
+- **설명:**  
+  TurtleBot3와 Gazebo 시뮬레이션 환경에서  
+  아루코 마커 기반 장애물 인식, 픽앤플레이스, 자율주행, 장애물 회피 등  
+  로봇 SW 기술을 통합한 데모 프로젝트입니다.
+
+---
+
 
