@@ -14,14 +14,21 @@
 👩‍💻 Notion 포트폴리오
 Mobile App Developer
 
-1998.02.17
-email - k1miso012@gmail.com
+📩 **Email** 
 
-github - http://github.com/tngusmiso
+kssg121340@gmail.com
 
-blog - https://blog.naver.com/tngusmiso
+🐈‍⬛ **Github**
 
-blog2 - https://tngusmiso.tistory.com/
+https://github.com/KIMYOHAN60
+
+**🌐  Blog**
+
+https://blog.naver.com/vincit_00
+
+**📷  Instagram**
+
+https://instagram.com/kssg121340
 
   꼼꼼한 개발자
 
