@@ -34,10 +34,10 @@ https://atom-pixie-bc9.notion.site/22b7bd2b7c518040ad6ad8727395b7ba
 ---------------------------
 
 ## 📚 목차
-1. [요양보조로봇](https://github.com/yourid/elderly-care-robot)
-2. [제주 불법주정차 단속 로봇](https://github.com/yourid/illegal-parking-robot)
-3. [Bloom for you](https://github.com/yourid/bloom-for-you)
-4. [Turtlebot3 AruCo marker challenge / Autonomous driving](https://github.com/yourid/turtlebot3-aruco-challenge)
+1. [요양보조로봇](https://github.com/KIMYOHAN60/elderly-care-robot)
+2. [제주 불법주정차 단속 로봇](https://github.com/KIMYOHAN60/illegal-parking-robot)
+3. [Bloom for you](https://github.com/KIMYOHAN60/bloom-for-you)
+4. [Turtlebot3 AruCo marker challenge / Autonomous driving](https://github.com/KIMYOHAN60/turtlebot3-aruco-challenge)
 
 
 ---
